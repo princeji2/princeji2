@@ -1,8 +1,20 @@
+<h1 align="center">Hi 👋, I'm Prince Naruka</h1>
+
+<h3 align="center">Computer Science Engineering Student | Aspiring AI Engineer | Building in Public 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princeji2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I am a Computer Science Engineering student with a strong interest in AI, software development, and building real-world projects.
 
-I enjoy learning by building and documenting my journey publicly.
+I enjoy learning by building, documenting my journey publicly, and turning ideas into practical solutions.
+
+💡 My goal is to graduate with both a degree and a portfolio of real-world AI projects.
 
 My focus areas are:
 
@@ -59,6 +71,22 @@ My focus areas are:
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeji2&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeji2&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeji2&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📚 Learning Philosophy
 
 > Learn by building.
@@ -85,4 +113,4 @@ To become a skilled AI Engineer who builds intelligent systems, useful AI produc
 
 ---
 
-⭐ Building one project at a time.
+🚀 Building today. Learning every day. Growing for the future.
