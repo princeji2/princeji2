@@ -1,183 +1,168 @@
 <!--
   Prince Naruka — profile.
-  Repository: princeji2/princeji2
-  Structure: README.md + /assets (6 handcrafted SVGs, no external
-  image dependencies). Commit both together, as-is, at the repo root.
+  This is the ONLY file needed. Every visual below is generated
+  live by external, hosted SVG services (capsule-render,
+  readme-typing-svg, github-readme-stats) and referenced by URL —
+  nothing to commit except this single README.md.
 -->
-  
+
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Prince Naruka" />
-</div>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F0F10,100:1A1A1D&height=260&text=PRINCE%20NARUKA&fontColor=C8A96A&fontSize=48&fontAlignY=45&desc=AI%20Engineer%20—%20In%20Progress&descAlignY=65&descSize=18&descColor=8A8A8D&animation=fadeIn" width="100%"/>
 
-<div align="center"> 
-
-Software should do less, and do it precisely.
 <br/>
-I build AI systems the same way — deliberately, end to end.
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1200&duration=3200&color=C8A96A&center=true&vCenter=true&width=720&height=50&lines=Founder+%40+Naruka+AI+Labs;Building+RAG+Pipelines+%26+AI+Agents;Learning+by+Shipping%2C+Not+by+Watching" />
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
 
 <br/>
 
-<div align="center">
+## About
 
-### Current Mission
-
-Naruka AI Labs — a solo AI research studio — and a full-stack system
-<br/>
-for verified event attendance at my college.
-
-</div>
+I build AI systems end to end — model, retrieval layer, and the infrastructure that keeps them reliable. Currently a Computer Science Engineering student, and founder of **Naruka AI Labs**, a solo AI research and development studio. I learn by shipping, and document the build in public.
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</div>
+<table align="center">
+<tr><td>
+
+| | |
+|---|---|
+| **Name** | Prince Naruka |
+| **Role** | AI Engineer in progress · Founder, Naruka AI Labs |
+| **Program** | B.Tech CSE (IoT) · Poornima Institute of Engineering & Technology |
+| **Batch** | 2025 – 2029 |
+| **Lab** | Member, AICTE IDEA Lab |
+| **Base** | Jaipur, Rajasthan, India |
+| **Focus** | LLM Applications · RAG · AI Agents · Full-Stack Systems |
+
+</td></tr>
+</table>
 
 <br/>
 
-### Selected Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="assets/project-1.svg" width="85%" alt="" />
-</div>
+## Current Mission
 
-<div align="center">
+Building **Naruka AI Labs** from zero, alongside a full-stack system that replaces WhatsApp-thread coordination and paper attendance with QR-verified check-ins for my college's student council.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
+
+<br/>
+
+## Featured Projects
 
 **College Council Event Management System**
+Replaces WhatsApp threads and paper attendance with QR-verified check-ins and on-demand certificates.
+`Next.js 16` · `Prisma` · `PostgreSQL` · `Server Actions`
+→ [github.com/princeji2/Event-Management](https://github.com/princeji2/Event-Management)
+
 <br/>
-Replaces WhatsApp threads and paper attendance with QR-verified check-ins.
-<br/>
-<sub>Next.js 16 &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; PostgreSQL</sub>
-<br/>
-[Repository](https://github.com/princeji2/Event-Management)
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="assets/project-2.svg" width="85%" alt="" />
-</div>
-
-<div align="center">
 
 **AEGIS NOCTURNE**
+A real-time 360° radar visualization system on an ESP32 and a single RPLIDAR sensor — live object tracking, motion trails, danger-zone detection.
+`ESP32` · `Node.js` · `WebSockets` · `HTML Canvas`
+→ `github.com/princeji2/AEGIS-NOCTURNE` *(confirm link before publishing)*
+
 <br/>
-A radar system that tracks motion in real time, built on an ESP32 and a single LIDAR sensor.
-<br/>
-<sub>ESP32 &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; WebSockets</sub>
-<br/>
-<!-- CONFIRM repository link -->
-[Repository](https://github.com/princeji2/AEGIS-NOCTURNE)
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="assets/project-3.svg" width="85%" alt="" />
-</div>
-
-<div align="center">
 
 **PRINCE.OS**
-<br/>
-A personal operating layer, wired to an assistant that reads real data instead of a script.
-<br/>
-<sub>React &nbsp;·&nbsp; AI Assistant</sub>
-<br/>
-<!-- CONFIRM repository link -->
-[Repository](https://github.com/princeji2/PRINCE.OS)
-
-</div>
+A personal operating layer built in React, wired to a Claude-powered assistant that reads live stored data instead of a static prompt.
+`React` · `AI Assistant` · `Personal Infrastructure`
+→ `github.com/princeji2/PRINCE.OS` *(confirm link before publishing)*
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
 
 <br/>
 
-### Engineering Stack
-
-<br/>
+## Engineering Stack
 
 <div align="center">
 
-<sub>CORE</sub>
+<sub>LANGUAGES · FRONTEND</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs&theme=dark" />
 
 <br/><br/>
 
-<sub>ENVIRONMENT</sub>
+<sub>BACKEND · DATA</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,prisma&theme=dark" />
 
 <br/><br/>
 
-<sub><em>LangGraph &nbsp;·&nbsp; Langfuse &nbsp;·&nbsp; RAGAS &nbsp;·&nbsp; Model Context Protocol &nbsp;·&nbsp; Ollama</em></sub>
+<sub>CLOUD · TOOLING</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,linux,arduino&theme=dark" />
+
+<br/><br/>
+
+<sub><em>AI stack — LangGraph · Langfuse · RAGAS · Model Context Protocol · Ollama</em></sub>
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
+
+<br/>
+
+## Growth Timeline
+
+| | |
+|---|---|
+| **Now** | Data structures & algorithms — NeetCode 150 · Databases — PostgreSQL + `pgvector` |
+| **Next** | Agentic systems — LangGraph, MCP protocol · Evaluation — Langfuse, RAGAS |
+| **Ongoing** | Frontend — React, TypeScript, Next.js · Infrastructure — Docker, CI/CD |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
+
+<br/>
+
+## Certifications & Recognition
+
+`CS50 — Harvard University`&nbsp;&nbsp;·&nbsp;&nbsp;`Azure Fundamentals — Microsoft`&nbsp;&nbsp;·&nbsp;&nbsp;`Cloud Computing — upGrad`&nbsp;&nbsp;·&nbsp;&nbsp;`Google Sheets — Simplilearn`
+
+<sub>UDHBHAV 2025 — National Project Exhibition &nbsp;·&nbsp; ICI TechBloom 25 — ProtoExpo</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
+
+<br/>
+
+## Activity
+
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=princeji2&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=F5F3EF&text_color=8A8A8D&icon_color=C8A96A" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeji2&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=F5F3EF&text_color=8A8A8D" />
+
 </div>
 
 <br/>
 
-<div align="center">
-
-### Now Exploring
-
-<sub>NeetCode 150 &nbsp;·&nbsp; pgvector &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; MCP &nbsp;·&nbsp; Langfuse &nbsp;·&nbsp; RAGAS &nbsp;·&nbsp; CI/CD</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=2" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</div>
-
-<br/>
+## Contact
 
 <div align="center">
-
-### Timeline
-
-**Now** — data structures, retrieval systems, agent evaluation.
-<br/>
-**Next** — a production RAG pipeline, and agentic workflows with LangGraph and MCP.
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contact
 
 [LinkedIn](https://www.linkedin.com/in/prince-naruka-26581236b/) &nbsp;·&nbsp; [GitHub](https://github.com/princeji2) &nbsp;·&nbsp; [Email](mailto:2025pietcprince041@poornima.org)
 
@@ -185,6 +170,4 @@ A personal operating layer, wired to an assistant that reads real data instead o
 
 <br/>
 
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1D,100:0F0F10&height=150&section=footer&text=Designed%20with%20restraint.&fontColor=C8A96A&fontSize=16&animation=fadeIn" width="100%"/>
