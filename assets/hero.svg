@@ -1,0 +1,61 @@
+<!-- Hero: name mark, flowing data path, floating nodes, breathing glow -->
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="82%" cy="24%" r="55%">
+      <stop offset="0%" stop-color="#1A1A1D"/>
+      <stop offset="100%" stop-color="#0F0F10"/>
+    </radialGradient>
+    <linearGradient id="pathFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C8A96A" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#C8A96A" stop-opacity="0.55"/>
+      <stop offset="85%" stop-color="#C8A96A" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#C8A96A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="460" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="459" fill="none" stroke="#232326"/>
+
+  <!-- breathing glow behind mark -->
+  <circle cx="1000" cy="110" r="90" fill="#C8A96A" opacity="0.05">
+    <animate attributeName="opacity" values="0.03;0.09;0.03" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="80;100;80" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- architectural ticks, top edge -->
+  <g stroke="#232326" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="14"/>
+    <line x1="160" y1="0" x2="160" y2="10"/>
+    <line x1="240" y1="0" x2="240" y2="14"/>
+    <line x1="320" y1="0" x2="320" y2="10"/>
+    <line x1="400" y1="0" x2="400" y2="14"/>
+  </g>
+
+  <!-- flowing data path -->
+  <path d="M 80 340 C 320 260, 520 400, 760 300 C 900 240, 980 180, 1120 150"
+        fill="none" stroke="url(#pathFade)" stroke-width="1.1"/>
+
+  <g fill="#C8A96A">
+    <circle cx="320" cy="277" r="2.4">
+      <animate attributeName="cy" values="277;270;277" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="352" r="2">
+      <animate attributeName="cy" values="352;359;352" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.35;0.9" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="222" r="2.6">
+      <animate attributeName="cy" values="222;214;222" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name mark -->
+  <text x="80" y="210" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="64" font-weight="300" letter-spacing="-1.5" fill="#F5F3EF">Prince Naruka</text>
+
+  <rect x="82" y="230" width="1" height="1"/>
+  <text x="80" y="246" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#C8A96A">AI ENGINEER — IN PROGRESS</text>
+
+  <text x="80" y="292" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="19" fill="#8A8A8D">Building software that thinks, retrieves, and acts.</text>
+</svg>
