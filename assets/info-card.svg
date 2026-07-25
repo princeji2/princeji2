@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="342" viewBox="0 0 560 342">
+<style>text{font-family:"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;}</style>
+<rect width="100%" height="100%" fill="#FFFBD4"/>
+<rect x="0.5" y="0.5" width="559" height="341" rx="10" fill="#FFF8E0" stroke="#E8DFC2"/>
+<rect x="0.5" y="0.5" width="559" height="40" rx="10" fill="#FFF8E0"/>
+<rect x="0.5" y="30.5" width="559" height="10" fill="#FFF8E0"/>
+<line x1="0.5" y1="40.5" x2="559.5" y2="40.5" stroke="#E8DFC2"/>
+<circle cx="24" cy="20" r="5" fill="#CBA35C" opacity="0.5"/>
+<circle cx="42" cy="20" r="5" fill="#CBA35C" opacity="0.3"/>
+<circle cx="60" cy="20" r="5" fill="#CBA35C" opacity="0.15"/>
+<text x="280.0" y="25" text-anchor="middle" font-size="12" letter-spacing="2" fill="#8A8370">prince@github ~ whoami</text>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.5s" fill="freeze"/>
+<text x="28" y="78" font-size="13" font-weight="600" fill="#A90E02">user</text>
+<text x="118" y="78" font-size="13" fill="#2B2A25">prince@naruka-ai-labs</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.5s" fill="freeze"/>
+<text x="28" y="108" font-size="13" font-weight="600" fill="#A90E02">os</text>
+<text x="118" y="108" font-size="13" fill="#2B2A25">B.Tech CSE (IoT) — Poornima Institute of Eng. &amp; Tech.</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.5s" fill="freeze"/>
+<text x="28" y="138" font-size="13" font-weight="600" fill="#A90E02">now</text>
+<text x="118" y="138" font-size="13" fill="#2B2A25">Naruka AI Labs — solo AI R&amp;D studio</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.5s" fill="freeze"/>
+<text x="28" y="168" font-size="13" font-weight="600" fill="#A90E02">prev</text>
+<text x="118" y="168" font-size="13" fill="#2B2A25">College Council Event Management System</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.510s" dur="0.5s" fill="freeze"/>
+<text x="28" y="198" font-size="13" font-weight="600" fill="#A90E02">stack</text>
+<text x="118" y="198" font-size="13" fill="#2B2A25">Python · TypeScript · Next.js · PostgreSQL</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.600s" dur="0.5s" fill="freeze"/>
+<text x="28" y="228" font-size="13" font-weight="600" fill="#A90E02">ai</text>
+<text x="118" y="228" font-size="13" fill="#2B2A25">LangGraph · Langfuse · RAGAS · MCP · Ollama</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.690s" dur="0.5s" fill="freeze"/>
+<text x="28" y="258" font-size="13" font-weight="600" fill="#A90E02">highlight</text>
+<text x="118" y="258" font-size="13" fill="#2B2A25">AEGIS NOCTURNE — 360° radar on an ESP32</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.780s" dur="0.5s" fill="freeze"/>
+<text x="28" y="288" font-size="13" font-weight="600" fill="#A90E02">learning</text>
+<text x="118" y="288" font-size="13" fill="#2B2A25">NeetCode 150 · pgvector · agentic systems</text>
+</g>
+<line x1="28" x2="532" y1="56" y2="56" stroke="#E8DFC2"/>
+</svg>
