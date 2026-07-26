@@ -1,39 +1,11 @@
 {
   "username": "princeji2",
-  "generated": "2026-07-25",
-  "total": 107,
-  "current_streak": 3,
+  "generated": "2026-07-26",
+  "total": 109,
+  "current_streak": 4,
   "longest_streak": 4,
   "best_day": "2026-04-23",
   "days": [
-    {
-      "date": "2025-07-20",
-      "level": 0
-    },
-    {
-      "date": "2025-07-21",
-      "level": 0
-    },
-    {
-      "date": "2025-07-22",
-      "level": 0
-    },
-    {
-      "date": "2025-07-23",
-      "level": 0
-    },
-    {
-      "date": "2025-07-24",
-      "level": 1
-    },
-    {
-      "date": "2025-07-25",
-      "level": 1
-    },
-    {
-      "date": "2025-07-26",
-      "level": 0
-    },
     {
       "date": "2025-07-27",
       "level": 0
@@ -1488,7 +1460,11 @@
     },
     {
       "date": "2026-07-25",
-      "level": 2
+      "level": 3
+    },
+    {
+      "date": "2026-07-26",
+      "level": 1
     }
   ]
 }
