@@ -386,7 +386,8 @@
 <rect x="762" y="50" width="11" height="11" rx="2.5" fill="#A90E02" opacity="0"><animate attributeName="y" from="50" to="56" begin="0.648s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.648s" dur="0.4s" fill="freeze"/></rect>
 <rect x="762" y="64" width="11" height="11" rx="2.5" fill="#C96A33" opacity="0"><animate attributeName="y" from="64" to="70" begin="0.660s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.660s" dur="0.4s" fill="freeze"/></rect>
 <rect x="762" y="78" width="11" height="11" rx="2.5" fill="#E8CFA0" opacity="0"><animate attributeName="y" from="78" to="84" begin="0.672s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.672s" dur="0.4s" fill="freeze"/></rect>
-<rect x="762" y="92" width="11" height="11" rx="2.5" fill="#F2ECD2" opacity="0"><animate attributeName="y" from="92" to="98" begin="0.684s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.684s" dur="0.4s" fill="freeze"/></rect>
+<rect x="762" y="92" width="11" height="11" rx="2.5" fill="#E8CFA0" opacity="0"><animate attributeName="y" from="92" to="98" begin="0.684s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.684s" dur="0.4s" fill="freeze"/></rect>
+<rect x="762" y="106" width="11" height="11" rx="2.5" fill="#F2ECD2" opacity="0"><animate attributeName="y" from="106" to="112" begin="0.696s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/><animate attributeName="opacity" from="0" to="1" begin="0.696s" dur="0.4s" fill="freeze"/></rect>
 <text x="34" y="156" font-size="9" fill="#8A8370">Less</text>
 <rect x="68" y="148" width="11" height="11" rx="2.5" fill="#F2ECD2"/>
 <rect x="82" y="148" width="11" height="11" rx="2.5" fill="#E8CFA0"/>
@@ -394,5 +395,5 @@
 <rect x="110" y="148" width="11" height="11" rx="2.5" fill="#C96A33"/>
 <rect x="124" y="148" width="11" height="11" rx="2.5" fill="#A90E02"/>
 <text x="144" y="156" font-size="9" fill="#8A8370">More</text>
-<text x="892" y="156" text-anchor="end" font-size="10.5" fill="#2B2A25">129 contributions in the last year  ·  current streak 0  ·  longest 8</text>
+<text x="892" y="156" text-anchor="end" font-size="10.5" fill="#2B2A25">130 contributions in the last year  ·  current streak 0  ·  longest 9</text>
 </svg>
